@@ -1,0 +1,47 @@
+.paragrafoTxi {
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 100px;
+margin: 20px;
+}
+.tour {
+letter-spacing: 10px;
+/* margin-left: 20px; */
+margin-top: 45px;
+height: 51px;
+text-align: center;
+}
+.img{
+width: 100px;
+}
+.rodape {
+    width: 1400px;
+}
+.a {
+    color: black;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -56px;
+}
+.tdMenu {
+    height: 50px;
+    vertical-align: center;
+}
+.titulo {
+    font-weight: bold;
+    width: 1500px;
+    font-family: Courier New;
+}
+.h1Titulo{
+    font-weight: bold;
+    margin-top: revert;
+}
+.span{
+    font-family: Courier New; 
+    font-size: 20px; 
+    vertical-align: bottom; 
+    font-weight: bold; 
+    margin-top: revert;
+}
+
